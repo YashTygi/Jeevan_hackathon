@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Jeevan_hackathon/static/css/main.49daeb95.css",
+    "main.js": "/Jeevan_hackathon/static/js/main.ca813d2b.js",
+    "static/media/human.jpg": "/Jeevan_hackathon/static/media/human.3222d9a7d36f93916d65.jpg",
+    "static/media/human2.jpg": "/Jeevan_hackathon/static/media/human2.ecefce9fe87f83d0eb45.jpg",
+    "static/media/feature.jpg": "/Jeevan_hackathon/static/media/feature.ee3a20dae6f40cbc68af.jpg",
+    "static/media/OIP.png": "/Jeevan_hackathon/static/media/OIP.d9514c3f9f062bb80cdb.png",
+    "static/media/logo.png": "/Jeevan_hackathon/static/media/logo.21c37ef5282fd9e3fd71.png",
+    "static/media/quiz_border.jpg": "/Jeevan_hackathon/static/media/quiz_border.5512498cbc6c8e00a576.jpg",
+    "static/media/chatgpt.png": "/Jeevan_hackathon/static/media/chatgpt.2f66c9a8ab9a2c64f016.png",
+    "index.html": "/Jeevan_hackathon/index.html",
+    "main.49daeb95.css.map": "/Jeevan_hackathon/static/css/main.49daeb95.css.map",
+    "main.ca813d2b.js.map": "/Jeevan_hackathon/static/js/main.ca813d2b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49daeb95.css",
+    "static/js/main.ca813d2b.js"
+  ]
+}
